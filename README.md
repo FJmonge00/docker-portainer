@@ -1,4 +1,6 @@
-:::image type="content" source="imagenes/portainer.png" alt-text="portada":::
+<img src="./imagenes/LOGO-FRAN2.PNG"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ## Índice
 ### 1.- Introducción
 ### 2.- Instalación
