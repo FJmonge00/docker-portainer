@@ -1,4 +1,4 @@
-::::::image type="icon" source="imagenes/LOGO-FRAN2.png" border="false":::image type="content" source="./imagenes/portainer.png" alt-text="foto-portada":::
+:::image type="icon" source="imagenes/LOGO-FRAN2.png" border="false":::image type="content" source="./:::imagenes/portainer.png" alt-text="foto-portada":::
 ## Índice
 ### 1.- Introducción
 ### 2.- Instalación
