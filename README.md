@@ -1,4 +1,4 @@
-<img src="./imagenes/LOGO-FRAN2.png"
+<img src="./imagenes/MI-LICENCIA88x31.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 ## Índice
