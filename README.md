@@ -1,6 +1,9 @@
-<img src="./imagenes/MI-LICENCIA88x31.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<img src="./imagenes/MI-LICENCIA88x31.png" style="float: left; margin-right: 10px;" />
+
+## Descripción:
+
+El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
+
 ## Índice
 ### 1.- Introducción
 ### 2.- Instalación
