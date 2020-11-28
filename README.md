@@ -10,4 +10,7 @@ El proyecto consiste en estudiar la herramienta Portainer, que nos permite el de
 ### 3.- Acceso 
 ### 4.- Descripción del panel de control.
 ### 5.- Despliegue de un contenedor httpd con una paǵina personalizada y mapeaa por el puerto 8082.
-[ accesos ](#acceso.md)
+[ ### accesos1 ](#acceso.md)
+### [ accesos2 ](#acceso.md)
+[ ### accesos3 ](https://github.com/FJmonge00/docker-portainer/blob/master/acceso.md)
+### [ accesos4 ](https://github.com/FJmonge00/docker-portainer/blob/master/acceso.md)
