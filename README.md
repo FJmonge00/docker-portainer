@@ -2,7 +2,7 @@
 
 # Docker Portainer
 ![imagen](imagenes/portainer.png)
-## Descripción:
+## Descripción
 El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
 ## Índice
 ### 1.- Introducción
@@ -15,7 +15,7 @@ Docker [Portainer](https://www.portainer.io) es una herramienta gráfica que nos
 ....
 ### 5.- Despliegue de un contenedor httpd con una paǵina personalizada y mapeado por el puerto 8082.
 .....
-## Referencias:
+## Referencias
 - <https://victorhckinthefreeworld.com>
 - <https://markdown.es>
 - <https://www.portainer.io>
