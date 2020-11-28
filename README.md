@@ -16,8 +16,11 @@ Docker [Portainer](https://www.portainer.io) es una herramienta gráfica que nos
 ### 5.- Despliegue de un contenedor httpd con una paǵina personalizada y mapeado por el puerto 8082.
 .....
 ## Referencias
-- <https://victorhckinthefreeworld.com>
 - <https://markdown.es>
 - <https://www.portainer.io>
+- <https://www.danielmartingonzalez.com>
+- <https://hub.docker.com>
+- <https://victorhckinthefreeworld.com>
+- -<https://alexpro.sytes.net>
 ## Conclusión
 ....
