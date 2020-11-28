@@ -16,4 +16,7 @@ Docker [Portainer](https://www.portainer.io) es una herramienta gráfica que nos
 - <https://www.portainer.io>
 ## Conclusión
 ![imagen](imagenes/portainer.png)
+
+:::image type="content" source="imagenes/MI-LICENCIA88x31.png" alt-text="logo":::
+
 ### [ accesos4 ](https://github.com/FJmonge00/docker-portainer/blob/master/acceso.md)
