@@ -5,12 +5,12 @@
 ## Descripción
 El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
 ## Índice
-### [1.- Introducción.](introduccion.md)
-### [2.- Instalación.](instalacion.md)
-### [3.- Acceso.](acceso.md)
-### [4.- Descripción del panel de control.](descripciónPanelDeControl.md)
+### [1.- Introducción.](documentacion/introduccion.md)
+### [2.- Instalación.](documentacion/instalacion.md)
+### [3.- Acceso.](documentacion/acceso.md)
+### [4.- Descripción del panel de control.](documentacion/descripciónPanelDeControl.md)
 ....
-### 5.- [5.- Despliegue de un contenedor httpd con una paǵina personalizada y mapeado por el puerto 8082.](despliegueContenedorHttpd.md)
+### [5.- Despliegue de un contenedor httpd con una paǵina personalizada y mapeado por el puerto 8082.](documentacion/despliegueContenedorHttpd.md)
 .....
 ## Referencias
 - <https://markdown.es>
