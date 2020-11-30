@@ -14,13 +14,19 @@ En esta ventana del panel podemos ver información general:
 Si tuviésemos más servidores de docker también se listarían en están ventana con sus respectivas caracteristicas...
 ### Extensions
 En el panel Extensions tenemos la posibilidad de añadir extensiones las cuales nos faciliten el gestion de los contenedores, clusters, aprovisionamientos de estos etc ...
+
 ![extensiones](../imagenes/extensiones.png)
-Muchas de estas son de pago...
+
+**Muchas de estas son de pago...**
+
 ![pago](../imagenes/pago.png)
 ### Users
 En este ventana podremos crear,ver y eliminar los usuarios que tienen acceso a portainer
+
 ![usuarios](../imagenes/usuarios.png)
+
 En este ventana podremos crear,ver y eliminar los usuarios que tienen acceso a portainer. Ademas tambien tenemos la posibilidad de crear roles y equipos organizativos
+
 ![usuarios](../imagenes/usuarios.png)
 ![edicion usuarios](../imagenes/usuario2.png)
 ### Endpoints
