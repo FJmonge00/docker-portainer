@@ -1,7 +1,7 @@
 <img src="./imagenes/MI-LICENCIA88x31.png" style="float: left; margin-right: 10px;" />
 
 # Docker Portainer
-![logo portainer](imagenes/portainer.png)
+![logo portainer](/imagenes/portainer.png)
 ## Descripción
 El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
 ## Índice
