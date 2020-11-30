@@ -9,9 +9,8 @@ El proyecto consiste en estudiar la herramienta Portainer, que nos permite el de
 ### [2.- Instalación.](documentacion/instalacion.md)
 ### [3.- Acceso.](documentacion/acceso.md)
 ### [4.- Descripción del panel de control.](documentacion/descripciónPanelDeControl.md)
-....
 ### [5.- Despliegue de un contenedor httpd con una paǵina personalizada y mapeado por el puerto 8082.](documentacion/despliegueContenedorHttpd.md)
-.....
+
 ## Referencias
 - <https://markdown.es>
 - <https://www.portainer.io>
