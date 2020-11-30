@@ -12,11 +12,11 @@ Al bajarnos la imagen de DockerHub tendremos que especificar tambien el usuario 
 
 ![pull de la imagen](imagenes/poolDeLaImagen.png)
 
-`` docker pull portainer/portainer
+`docker pull portainer/portainer`
 
 Levantamos la imagen con docker run...
 
-`` docker run -d --name portainer -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer
+`docker run -d --name portainer -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer`
 
 ![pull de la imagen](imagenes/poolDeLaImagen.png)
 
