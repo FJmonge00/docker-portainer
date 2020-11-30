@@ -6,7 +6,7 @@
 El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
 ## Índice
 ### 1.- Introducción
-Docker [Portainer](https://www.portainer.io) es una herramienta gráfica que nos permite trabajar con docker desde lo que podríamos llamar una especie de "Back-End", el cual accederemos desde el navegador web, es una alternativa simple y sencilla para aquellos que no quieran utilizar magnífica CLI. Aquellos que hayáis trabajado con CMS como [Webmin](https://www.webmin.com) veréis muchas similitudes en su interfaz, la implementación es bastante sencilla ya que lo lanzaremos como si de un contenedor más se tratase.
+Docker [Portainer](https://www.portainer.io) es una herramienta gráfica que nos permite trabajar con docker desde lo que podríamos llamar una especie de "Back-End", el cual accederemos desde el navegador web, es una alternativa simple y sencilla para aquellos que no quieran utilizar magnífica CLI. Aquellos que hayáis trabajado con un CMS de administración como [Webmin](https://www.webmin.com) veréis muchas similitudes en su interfaz, la implementación es bastante sencilla ya que lo lanzaremos como si de un contenedor más se tratase.
 ### 2.- Instalación
 ....
 ### 3.- Acceso
@@ -21,6 +21,7 @@ Docker [Portainer](https://www.portainer.io) es una herramienta gráfica que nos
 - <https://www.danielmartingonzalez.com>
 - <https://hub.docker.com>
 - <https://victorhckinthefreeworld.com>
-- -<https://alexpro.sytes.net>
+- <https://alexpro.sytes.net>
+- <https://www.statdeveloper.com/>
 ## Conclusión
 ....
