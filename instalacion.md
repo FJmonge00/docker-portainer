@@ -17,4 +17,6 @@ Levantamos la imagen con docker run...
 
 Comprobamos que esta corriendo la imagen...
 
+`docker ps`
+
 ![docker ps](imagenes/dockerps.png)
