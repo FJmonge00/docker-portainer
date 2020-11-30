@@ -3,7 +3,7 @@
 # 2.- Instalación
 ![logo portainer](imagenes/portainer.png)
 ## Instalación del contenedor
-Al bajarnos la imagen de DockerHub tendremos que especificar tambien el usuario ya que no es una imagen oficial de docker
+Al bajarnos la imagen de DockerHub tendremos que especificar tambien el usuario ya que no es una imagen oficial de docker...
 
 ![pull de la imagen](imagenes/poolDeLaImagen.png)
 
