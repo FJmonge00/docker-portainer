@@ -26,7 +26,7 @@ En este ventana podremos crear,ver y eliminar los usuarios que tienen acceso a p
 
 ![usuarios](../imagenes/usuarios.png)
 
-En este ventana podremos crear,ver y eliminar los usuarios que tienen acceso a portainer. Ademas tambien tenemos la posibilidad de crear roles y equipos organizativos
+Además también tenemos la posibilidad de crear roles y equipos organizativos
 
 ![usuarios](../imagenes/usuarios.png)
 ![edicion usuarios](../imagenes/usuario2.png)
