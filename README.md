@@ -5,7 +5,7 @@
 ## Descripción
 El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
 ## Índice
-### 1.- Introducción [Entrar](introduccion.md)
+### [1.- Introducción](introduccion.md)
 ### 2.- Instalación
 ### 3.- Acceso 
 ### 4.- Descripción del panel de control.
