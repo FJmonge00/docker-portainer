@@ -10,6 +10,7 @@ En esta ventana del panel podemos ver información general:
 - Número de imágenes 
 - Número de volúmenes.
 - Versión de docker
+
 ![fotoacceso](../imagenes/home.png)
 Si tuviésemos más servidores de docker también se listarían en están ventana con sus respectivas caracteristicas...
 ### Extensions
