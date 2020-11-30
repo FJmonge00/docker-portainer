@@ -9,9 +9,12 @@
 
 **Creamos el contenedor**
 
-Con esat configuración estamos creando un contenedor denominado *mi-web* partiendo de la imagen *httpd* de DockerHub, exponiendo este contenedor atraves del puerto *8082*. Además estamos enlazado una carperta entre el host y el contenedor desde */root/ejemploWeb* (Donde estará mi web) a */usr/local/apache2/htdocs/* que es donde el servidor apache buscará la web a mostrar
+Con esta configuración estamos creando un contenedor denominado *mi-web* partiendo de la imagen *httpd* de DockerHub, exponiendo este contenedor a través del puerto *8082*. Además estamos enlazado una carpeta entre el host y el contenedor desde */root/ejemploWeb* (Donde estará mi web) a */usr/local/apache2/htdocs/* que es donde el servidor apache buscará la web a mostrar
 
 ![añadircontenedor2](../imagenes/runMaquina.png)
+
+*Contenido del directorio enlzado*
+
 ![pasos previos](../imagenes/pasosPrevios.png)
 ## Contenedor lanzado
 
