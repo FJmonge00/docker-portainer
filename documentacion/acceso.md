@@ -4,11 +4,13 @@
 ### Con el navegador accedemos a *http://localhost:9000*
 
 #### Indicamos usuario y contraseña
-![fotoacceso](/imagenes/portainer.png)
+![fotoacceso](../imagenes/portainer.png)
 
 #### Clicamos en *Local* y *Connect*
-![fotoacceso2](/imagenes/acceso2.png)
+![fotoacceso2](../imagenes/acceso2.png)
 
 #### ¡Listo!
-![fotoacceso2](/imagenes/accesoFin.png)
+![fotoacceso2](../imagenes/accesoFin.png)
+________________________________________
+*[Volver al indice...](../README.md)*
 
