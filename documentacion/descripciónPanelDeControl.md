@@ -34,7 +34,9 @@ Si queremos en un contenedor pueda lanzar otros contenedores en nuestra máquina
 
 > [!CAUTION]
 > Para no dar permisos de root a los usuarios que tienen que trabajar con docker, estos se añaden al grupo de docker que se crea durante su instalación, y es el demonio de docker el que con privilegios de root ejecuta los cambios en el sistema(aquellos que han sido indicados por la CLI Ej: docker volume prune). Es de VITAL importancia para la seguridad de nuestro sistema que el contenedor que tenga acceso docker.sock sea confiable ya que estaríamos dando de manera indirecta privilegios de root sobre nuestro sistema a dicho contenedor, que nuestro caso, es portainer.
-![grupo](../imagenes/grupo.png) ![fichero](../imagenes/docker-sock.png)
+
+![grupo](../imagenes/grupo.png) 
+![fichero](../imagenes/docker-sock.png)
 
 Si quieres profundizar en como añadir un endpoint visita [esta web](https://onthedock.github.io/post/170506-configura-un-endpoint-remoto-en-portainer/)
 ### Registries
