@@ -31,10 +31,10 @@ Además también tenemos la posibilidad de crear roles y equipos organizativos
 ![usuarios](../imagenes/usuarios.png)
 ![edicion usuarios](../imagenes/usuario2.png)
 ### Endpoints
-Aquí podremos ver los distintos servidores desde los que podremos lanzar contenedores. En mi caso unicamente aparece local que enlaza con los docker.sock *[Ver Instalación...](./instalacion.md)*
+Aquí podremos ver los distintos servidores desde los que podremos lanzar contenedores. En mi caso unicamente aparece local que enlaza con los docker.sock 
 #### ¿Que es docker.sock?
 > Se utiliza para comunicarse con el demonio principal de Docker mediante la API de Docker y la CLI de Docker para ejecutar comandos de Docker. Este socket también se puede usar para comunicarse con el demonio desde dentro de un contenedor. El demonio Docker puede escuchar solicitudes a través de tres tipos diferentes de socket: Unix, tcp y fd. De forma predeterminada, se crea un socket de dominio Unix (o socket IPC) en /var/run/docker.sock. — <https://dreamlab.net>
-#### ¿Por qué montamos en un volumen docker.sock cuando levantamos la imagen de Portainer?
+#### ¿Por qué montamos en un volumen docker.sock cuando levantamos la imagen de Portainer? *[Ver Instalación...](./instalacion.md)*
 ![comando](../imagenes/levantarContenedor.png)
 
 Si queremos que un contenedor pueda lanzar otros contenedores en nuestra máquina host, tenemos que darle acceso a la API o demonio de docker. Portainer es un gestor de contenedores el cual utilizará el demonio de docker que es el realmente que efectuará los cambios en nuestra máquina.
